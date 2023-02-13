@@ -13,4 +13,4 @@ try{
     console.log(`Não foi possível conectar. ${error}`);
 }
 
-module.exports = sequelize
+module.exports = sequelize;

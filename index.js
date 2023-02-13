@@ -18,4 +18,4 @@ app.use(express.json())
 
 app.use(express.static('public'))
 
-app.listem(3000)
+app.listen(3000)
